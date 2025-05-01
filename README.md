@@ -32,7 +32,6 @@ flutter run
 🔗 [Link do APK](https://rickpedia-76aa3.web.app)
 
 ## 🖼️ Prints da aplicação
-![Preview Login](imagens/login.png)
 ![Preview Personagens](imagens/personagens.png)
 
 ---
