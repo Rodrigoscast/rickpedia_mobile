@@ -28,11 +28,12 @@ flutter run
 4. Baixe o arquivo `google-services.json` e coloque em `android/app/`.
 5. Execute o projeto.
 
-## 📲 Teste o App
-🔗 [Baixar APK](https://rickpedia-76aa3.web.app)
+## 📲 Teste o App Web
+🔗 [Link do APK](https://rickpedia-76aa3.web.app)
 
 ## 🖼️ Prints da aplicação
-*(adicione seus prints aqui)*
+![Preview Login](imagens/login.png)
+![Preview Personagens](imagens/personagens.png)
 
 ---
 
