@@ -29,7 +29,7 @@ flutter run
 5. Execute o projeto.
 
 ## 📲 Teste o App
-🔗 Baixar APK
+🔗 [Baixar APK](https://rickpedia-76aa3.web.app)
 
 ## 🖼️ Prints da aplicação
 *(adicione seus prints aqui)*
