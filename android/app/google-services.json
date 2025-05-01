@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244441036026",
+    "project_id": "rickpedia-76aa3",
+    "storage_bucket": "rickpedia-76aa3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244441036026:android:886cf8a25e400811b60543",
+        "android_client_info": {
+          "package_name": "com.kame.rickpedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhsO2seGGsWoxRYqC8G9ZmdWwRa-4xDk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
